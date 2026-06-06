@@ -31,7 +31,7 @@ Retail Local Grocery App is a mobile UI/UX design project created in Figma for t
 10. Profile Screen
 
 ## Figma Prototype
-(Add your Figma link here)
+https://www.figma.com/design/osCn7aH4BNaK6x64yS7kVH/Untitled?node-id=0-1&t=qKHUcV73wCS3hJJn-1
 
 ## Author
 Piyush Singh
